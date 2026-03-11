@@ -130,9 +130,7 @@ function Try() {
             <h1 className="mt-5 text-3xl font-semibold tracking-tight text-slate-900 sm:text-4xl">
               Ask anything about your documents
             </h1>
-            <p className="mt-3 max-w-xl text-base leading-7 text-slate-500 sm:text-lg">
-              A focused chat workspace for retrieval-based answers, summaries, and follow-up questions.
-            </p>
+            
           </div>
 
           <div className="grid grid-cols-1 gap-6 items-start">
